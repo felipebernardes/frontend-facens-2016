@@ -1,0 +1,71 @@
+/* Reset */
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+/* header */
+
+header {
+  background-color: #30d5c6;
+  text-align: center;
+  color: #FFF;
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column;
+}
+
+header div {
+  margin: auto;
+  min-width: 250px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 16px;
+  margin: 20px auto;
+}
+/* facebook.com/bernardes.felipe */
+header a {
+  display: block;
+  background-color: rgba(0,20,0,0.5);
+  max-width: 160px;
+  color: #FFF;
+  margin: auto;
+  padding: 12px 0;
+  border-radius: 4px;
+  text-transform: uppercase;
+  transition: all .2s ease;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+header a:hover {
+    background-color: rgba(0,20,0,.7);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* destaque */
