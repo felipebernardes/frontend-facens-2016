@@ -6,3 +6,8 @@ repo do curso de frontend na Facens, em julho de 2016
 
 ## slides do curso
 [html + css](https://speakerdeck.com/felipebernardes/html-plus-css-fundamentos-e-iniciacao-ao-front-end)
+
+
+### links legais
+- [a single div](http://a.singlediv.com/)
+- [unsplash.com](https://unsplash.com/)
