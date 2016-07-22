@@ -10,6 +10,10 @@ p {
   box-sizing: border-box;
 }
 
+img {
+  max-width: 100%;
+}
+
 ul {
   margin: 0;
   padding: 0;
@@ -19,6 +23,10 @@ ul {
 a {
   color: #000;
   text-decoration: none;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
 }
 
 /* header */
@@ -33,6 +41,7 @@ header {
   background-image: url('../img/bg-header.jpg');
   background-position: center;
   background-size: cover;
+  background-attachment: fixed;
   position: relative;
   z-index: 2;
 }
@@ -85,7 +94,6 @@ header a:hover {
 /* destaque */
 
 .destaque {
-  min-height: 100vh;
   text-align: center;
 }
 
@@ -116,6 +124,7 @@ header a:hover {
   border-radius: 50%;
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   margin-bottom: 16px;
 }
 
@@ -123,6 +132,34 @@ header a:hover {
   ul {
     display: flex;
   }
+}
 
+/* detail */
+
+.detail {
+  padding: 0 5%;
+}
+
+.detail h2 {
+  text-align: center;
+  color: #888;
+  font-weight: bold;
+}
+
+@media (min-width: 768px) {
+  .detail {
+    display: flex;
+    flex-flow: row wrap;
+  }
+
+  .detail h2 {
+    width: 100%;
+    text-align: left;
+  }
+
+  .detail p {
+    width: 50%;
+    margin-left: 0;
+  }
 
 }
