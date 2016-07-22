@@ -35,6 +35,17 @@ export default StyleSheet.create({
     "*": {
         "boxSizing": "border-box"
     },
+    "ul": {
+        "marginTop": 0,
+        "marginRight": 0,
+        "marginBottom": 0,
+        "marginLeft": 0,
+        "paddingTop": 0,
+        "paddingRight": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "listStyle": "none"
+    },
     "a": {
         "color": "#000",
         "textDecoration": "none"
@@ -45,14 +56,30 @@ export default StyleSheet.create({
         "color": "#FFF",
         "minHeight": 100 * vh,
         "display": "flex",
-        "flexFlow": "column"
+        "flexFlow": "column",
+        "backgroundImage": "url('../img/bg-header.jpg')",
+        "backgroundPosition": "center",
+        "backgroundSize": "cover",
+        "position": "relative",
+        "zIndex": 2
+    },
+    "header:after": {
+        "content": "''",
+        "position": "absolute",
+        "left": 0,
+        "top": 0,
+        "width": "100%",
+        "height": "100%",
+        "backgroundColor": "rgba(0,0,0,0.5)",
+        "zIndex": -1
     },
     "header div": {
         "marginTop": "auto",
         "marginRight": "auto",
         "marginBottom": "auto",
         "marginLeft": "auto",
-        "minWidth": 250
+        "minWidth": 250,
+        "position": "relative"
     },
     "header a": {
         "display": "block",
@@ -75,5 +102,41 @@ export default StyleSheet.create({
     },
     "header a:hover": {
         "backgroundColor": "rgba(0,20,0,.7)"
+    },
+    "destaque": {
+        "minHeight": 100 * vh,
+        "textAlign": "center"
+    },
+    "destaque h2": {
+        "marginTop": 30,
+        "marginRight": "auto",
+        "marginBottom": 30,
+        "marginLeft": "auto"
+    },
+    "destaque li": {
+        "marginTop": 50,
+        "marginRight": "auto",
+        "marginBottom": 50,
+        "marginLeft": "auto"
+    },
+    "destaque li:nth-of-type(1) div": {
+        "backgroundImage": "url('../img/destaque-1.jpg')"
+    },
+    "destaque li:nth-of-type(2) div": {
+        "backgroundImage": "url('../img/destaque-2.jpg')"
+    },
+    "destaque li:nth-of-type(3) div": {
+        "backgroundImage": "url('../img/destaque-3.jpg')"
+    },
+    "destaque div": {
+        "marginTop": "auto",
+        "marginRight": "auto",
+        "marginBottom": 16,
+        "marginLeft": "auto",
+        "height": 190,
+        "width": 190,
+        "borderRadius": "50%",
+        "backgroundSize": "cover",
+        "backgroundPosition": "center"
     }
 });

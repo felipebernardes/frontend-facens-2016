@@ -10,6 +10,12 @@ p {
   box-sizing: border-box;
 }
 
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 a {
   color: #000;
   text-decoration: none;
@@ -24,11 +30,28 @@ header {
   min-height: 100vh;
   display: flex;
   flex-flow: column;
+  background-image: url('../img/bg-header.jpg');
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  z-index: 2;
+}
+
+header:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+  z-index: -1;
 }
 
 header div {
   margin: auto;
   min-width: 250px;
+  position: relative;
 }
 
 h1 {
@@ -59,13 +82,47 @@ header a:hover {
 }
 
 
-
-
-
-
-
-
-
-
-
 /* destaque */
+
+.destaque {
+  min-height: 100vh;
+  text-align: center;
+}
+
+.destaque h2 {
+  margin: 30px auto;
+}
+
+.destaque li {
+  margin: 50px auto;
+}
+
+.destaque li:nth-of-type(1) div {
+  background-image: url('../img/destaque-1.jpg');
+}
+
+.destaque li:nth-of-type(2) div {
+  background-image: url('../img/destaque-2.jpg');
+}
+
+.destaque li:nth-of-type(3) div {
+  background-image: url('../img/destaque-3.jpg');
+}
+
+.destaque div {
+  margin: auto;
+  height: 190px;
+  width: 190px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 16px;
+}
+
+@media (min-width: 768px) {
+  ul {
+    display: flex;
+  }
+
+
+}
