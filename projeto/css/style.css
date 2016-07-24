@@ -157,9 +157,34 @@ header a:hover {
     text-align: left;
   }
 
+  .detail-right h2 {
+    text-align: right;
+  }
+
+  .detail .img-container {
+    width: 50%;
+  }
+
   .detail p {
     width: 50%;
     margin-left: 0;
   }
 
+  .detail-right .img-container {
+    order: 0;
+  }
+
+  .detail-right p {
+    order: 1;
+  }
+
+}
+
+/* faixa */
+.faixa {
+  background-color: #333;
+  text-align: center;
+  padding: 5vh 5vw;
+  margin: 5vh 0;
+  color: #fff;
 }

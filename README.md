@@ -13,3 +13,4 @@ repo do curso de frontend na Facens, em julho de 2016
 - [unsplash.com](https://unsplash.com/)
 - [reddit](https://www.reddit.com/r/web_design)
 - [dribbble](https://dribbble.com/)
+- [learn layout](http://pt-br.learnlayout.com/)
