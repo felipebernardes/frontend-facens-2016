@@ -1,9 +1,13 @@
-/* Reset */
+/* Reset - Base */
 h1,
 h2,
 h3,
 p {
   margin: 0;
+}
+
+h2 {
+  text-align: center;
 }
 
 * {
@@ -129,9 +133,10 @@ header a:hover {
 }
 
 @media (min-width: 768px) {
-  ul {
+  .destaque ul {
     display: flex;
   }
+
 }
 
 /* detail */
@@ -141,7 +146,6 @@ header a:hover {
 }
 
 .detail h2 {
-  text-align: center;
   color: #888;
   font-weight: bold;
 }
@@ -187,4 +191,75 @@ header a:hover {
   padding: 5vh 5vw;
   margin: 5vh 0;
   color: #fff;
+}
+
+/* contato */
+
+.contact {
+  background-color: #999;
+  min-height: 90vh;
+  padding: 5vh 5vw;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.contact h2,
+.contact p,
+.contact ul {
+  margin: auto;
+}
+
+.contact a {
+  color: #fff;
+  background-color: rgba(123,231,50,0.5);
+  padding: 16px;
+  display: block;
+  max-width: 240px;
+  margin: 10px auto;
+}
+
+@media (min-width: 768px) {
+  .contact {
+    min-height: 30vh;
+    flex-flow: row wrap;
+  }
+
+  .contact h2 {
+    width: 100%;
+  }
+
+  .contact p {
+    width: 50%;
+    max-width: 300px;
+  }
+
+  .contact ul {
+    width: 50%;
+  }
+
+
+}
+
+/* footer */
+footer {
+  min-height: 10vh;
+  background-color: #fff;
+  display: flex;
+}
+
+footer ul {
+  display: flex;
+  flex-flow: row;
+  margin: auto;
+  width: 100%;
+}
+
+footer a {
+  padding: 10px;
+  font-size: 30px;
+}
+
+footer li {
+  margin: auto;
 }
