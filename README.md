@@ -14,3 +14,7 @@ repo do curso de frontend na Facens, em julho de 2016
 - [reddit](https://www.reddit.com/r/web_design)
 - [dribbble](https://dribbble.com/)
 - [learn layout](http://pt-br.learnlayout.com/)
+- [ui gradients](http://uigradients.com/)
+- [(guia prático para) Criação de User Interfaces Charmosas](https://speakerdeck.com/felipebernardes/guia-pratico-para-criacao-de-user-interfaces-charmosas)
+- [flexbox4life](https://speakerdeck.com/felipebernardes/flexbox-4-life-in-dot-tegra-dot-do)
+- [placehold.it](http://placehold.it/)
