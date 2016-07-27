@@ -18,3 +18,9 @@ repo do curso de frontend na Facens, em julho de 2016
 - [(guia prático para) Criação de User Interfaces Charmosas](https://speakerdeck.com/felipebernardes/guia-pratico-para-criacao-de-user-interfaces-charmosas)
 - [flexbox4life](https://speakerdeck.com/felipebernardes/flexbox-4-life-in-dot-tegra-dot-do)
 - [placehold.it](http://placehold.it/)
+- [otimização de imagens](https://tinypng.com/)
+
+
+### codepen meetup brazil
+- [inscreva-se](https://nvite.com/CodePen/cbda)
+- [acesse o codepen](http://codepen.io/)
