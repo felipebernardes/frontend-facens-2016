@@ -1,27 +1,30 @@
 # frontend-facens-2016
-repo do curso de frontend na Facens, em julho de 2016
+Repositório do curso de iniciação ao desenvolvimento frontend na Facens (Faculdade de Engenharia de Sorocaba)
 
-## feedback form
-[http://goo.gl/forms/bqebYmYW9tPgPmH13](http://goo.gl/forms/bqebYmYW9tPgPmH13)
+### Data e Carga Horária
+O curso que ocorreu de 18 a 29 de julho de 2016, totalizando *10 dias (30 horas) de aula*.
 
-## slides do curso
-[html + css](https://speakerdeck.com/felipebernardes/html-plus-css-fundamentos-e-iniciacao-ao-front-end)
+### Formulário de Feedback
+Compartilhe sua opinião sobre o curso preenchendo [formulário de feedback](http://goo.gl/forms/bqebYmYW9tPgPmH13) a qualquer momento do curso! :-)
 
+### slides do curso
+- [HTML + CSS - fundamentos e iniciação ao front end](https://speakerdeck.com/felipebernardes/html-plus-css-fundamentos-e-iniciacao-ao-front-end)
+- [flexbox4life](https://speakerdeck.com/felipebernardes/flexbox-4-life-in-dot-tegra-dot-do)
+- [(guia prático para) Criação de User Interfaces Charmosas](https://speakerdeck.com/felipebernardes/guia-pratico-para-criacao-de-user-interfaces-charmosas)
+- [Git Fluente - do 0 ao 1](https://speakerdeck.com/felipebernardes/git-fluente-do-0-ao-1)
 
 ### links legais
 - [a single div](http://a.singlediv.com/)
 - [unsplash.com](https://unsplash.com/)
-- [reddit](https://www.reddit.com/r/web_design)
+- [reddit: web-design](https://www.reddit.com/r/web_design)
 - [dribbble](https://dribbble.com/)
 - [learn layout](http://pt-br.learnlayout.com/)
 - [ui gradients](http://uigradients.com/)
-- [(guia prático para) Criação de User Interfaces Charmosas](https://speakerdeck.com/felipebernardes/guia-pratico-para-criacao-de-user-interfaces-charmosas)
-- [flexbox4life](https://speakerdeck.com/felipebernardes/flexbox-4-life-in-dot-tegra-dot-do)
 - [placehold.it](http://placehold.it/)
 - [rilke, sobre dúvidas (brainpickings)](https://www.brainpickings.org/2012/06/01/rilke-on-questions/)  
 - [otimização de imagens](https://tinypng.com/)
 
-
 ### codepen meetup brazil
 - [inscreva-se](https://nvite.com/CodePen/cbda)
 - [acesse o codepen](http://codepen.io/)
+- [conheça o codepen](http://codepen.io/hello)
