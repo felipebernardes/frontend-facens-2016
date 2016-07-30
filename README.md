@@ -28,3 +28,7 @@ Compartilhe sua opinião sobre o curso preenchendo [formulário de feedback](htt
 - [inscreva-se](https://nvite.com/CodePen/cbda)
 - [acesse o codepen](http://codepen.io/)
 - [conheça o codepen](http://codepen.io/hello)
+
+### Materiais extras e modelo de currículo
+- [Google Drive](https://drive.google.com/folderview?id=0B7NErANkgCplM3pzMnhIRXVIXzg&usp=sharing)
+- [Why I didn’t look at your resume (Medium)](https://medium.com/who-what-why/why-i-didn-t-look-at-your-resume-2a8ed1f4a5bb#.nsi6dwg70)
