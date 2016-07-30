@@ -35,3 +35,4 @@ Compartilhe sua opinião sobre o curso preenchendo [formulário de feedback](htt
 
 ### Participantes
 - [Felipe Bernardes (Professor)](https://github.com/felipebernardes)
+- [Tiago Selpuveda](https://github.com/tiagofoks)
