@@ -35,3 +35,4 @@ Compartilhe sua opinião sobre o curso preenchendo [formulário de feedback](htt
 
 ### Participantes
 - [Felipe Bernardes (Professor)](https://github.com/felipebernardes)
+- [Ricardo Eihara](https://github.com/rhiroyuki/)
