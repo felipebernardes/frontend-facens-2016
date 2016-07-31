@@ -23,6 +23,9 @@ Compartilhe sua opinião sobre o curso preenchendo [formulário de feedback](htt
 - [placehold.it](http://placehold.it/)
 - [rilke, sobre dúvidas (brainpickings)](https://www.brainpickings.org/2012/06/01/rilke-on-questions/)  
 - [otimização de imagens](https://tinypng.com/)
+- [site do maujor](http://www.maujor.com/)
+- [desvendando a linguagem javascript](https://www.youtube.com/watch?v=093dIOCNeIc)
+- [HEAD](https://github.com/joshbuchea/HEAD)
 
 ### codepen meetup brazil
 - [inscreva-se](https://nvite.com/CodePen/cbda)
