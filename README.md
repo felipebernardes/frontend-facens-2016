@@ -1,13 +1,13 @@
 # frontend-facens-2016
-Repositório do curso de iniciação ao desenvolvimento frontend na [Facens (Faculdade de Engenharia de Sorocaba)](http://www.facens.br/home)
+Repositório do **curso de iniciação ao desenvolvimento frontend** na [Facens (Faculdade de Engenharia de Sorocaba)](http://www.facens.br/home)
 
-Repository from *frontend development initiation course* ocurred at [Facens (Faculdade de Engenharia de Sorocaba)](http://www.facens.br/home)
+Repository from **frontend development initiation course** ocurred at [Facens (Faculdade de Engenharia de Sorocaba)](http://www.facens.br/home)
 
 
 ### Data e Carga Horária (Date and Working Hours)
-O curso que ocorreu de 18 a 29 de julho de 2016, totalizando *10 dias (30 horas)*.
+O curso que ocorreu de 18 a 29 de julho de 2016, totalizando **10 dias (30 horas)**.
 
-The course ocurred from july 18th to 29th, 2016, in a total of *10 days (30 hours)*.
+The course ocurred from july 18th to 29th, 2016, in a total of **10 days (30 hours)**.
 
 
 ### Formulário de Feedback (Feedback Form)
